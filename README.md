@@ -1,7 +1,7 @@
 # Come-up-with-your-MAC-address
 
-This project allows you to change the MAC-address of any interface.
----
+This project allows you to change the MAC address of any interface.
+
 
 ## Installation
 
